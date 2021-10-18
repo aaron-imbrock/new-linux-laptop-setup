@@ -20,6 +20,8 @@ Note the `Profile Directory`.
 
 cd to `Profile Directory` and create a folder called `chrome`.
 
+Note, that on newer versions of Firefox `Update Folder` is in the field where you previously expected to see `Profile Folder`. `Profile Folder` is now farther down.
+
 ```bash
 mkdir chrome;
 
