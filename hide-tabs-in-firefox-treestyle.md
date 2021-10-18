@@ -21,7 +21,7 @@ Note the `Profile Directory`.
 cd to `Profile Directory` and create a folder called `chrome`.
 
 ```bash
-mkdir chrome
+mkdir chrome;
 
 cat << EOF > ./chrome/userChrome.css
 
